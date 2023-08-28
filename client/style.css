@@ -28,3 +28,25 @@ body {
     padding: 5px;
     color: white;
 }
+
+.signup {
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50%;
+}
+
+.content {
+    width: 60%;
+}
+
+.content h1 {
+    font-size: 80px;
+    font-family: sans-serif;
+}
+
+.content p {
+    font-size: 30px;
+    font-family: sans-serif;
+}
