@@ -1,0 +1,31 @@
+body {
+    margin: 0px;
+}
+
+.header {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    font-family: sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.CreatePost {
+    background-color: #177e38;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.SignOut {
+    background-color: #5e646d;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-left: 10px;
+    cursor: pointer;
+}
