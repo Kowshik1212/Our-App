@@ -32,12 +32,29 @@ body {
 
 .newPost {
     text-align: center;
+    margin: 20px;
+    font-size: 20px;
 }
 
 .newPost input {
     width: 50%;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+.newPost textarea {
+    width: 50%;
+    font-size: 20px;
+    border-radius: 5px;
 }
 
 .newPost #bodyContent {
     height: 60%;
+}
+
+.newPost .saveNewPost {
+    background-color: #006bdc;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
 }
